@@ -1,0 +1,9 @@
+1.problem identification
+2.business understanding
+3.Collecting data
+4 pre-processing data
+5 analyzing data
+6.data modeling
+7.model evaluation
+8. model training
+9.model deployment
